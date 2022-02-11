@@ -84,7 +84,7 @@ plotly==4.8.2
 pluggy==0.13.1
 prometheus-client==0.7.1
 prompt-toolkit==1.0.18
-protobuf==3.12.2
+protobuf==3.15.0
 protobuf3-to-dict==0.1.5
 psutil==5.7.0
 ptyprocess==0.6.0
